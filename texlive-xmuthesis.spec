@@ -1,6 +1,6 @@
 Name:		texlive-xmuthesis
 Version:	56614
-Release:	1
+Release:	2
 Summary:	XMU thesis style
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xmuthesis
